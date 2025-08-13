@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Китай 中国 - Discord сервер</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(rgba(0,0,30,0.85), rgba(0,0,50,0.85)),
+                        url('https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p2001a-m-2000x1500.png') center/cover fixed;
+            color: white;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+            border-bottom: 4px solid #9b59b6;
+        }
+        header h1 {
+            font-size: 2.5em;
+            color: #8e44ad;
+            text-shadow: 0 0 10px #9b59b6, 0 0 20px #8e44ad, 0 0 30px #8e44ad;
+            margin: 0;
+        }
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            background-color: #8e44ad;
+            color: white;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 10px;
+            box-shadow: 0 0 15px #9b59b6, 0 0 30px #8e44ad;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background-color: #6c3483;
+            box-shadow: 0 0 25px #9b59b6, 0 0 50px #8e44ad;
+        }
+        section {
+            padding: 20px;
+            background-color: rgba(20, 20, 40, 0.8);
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(155, 89, 182, 0.5);
+        }
+        h2 {
+            color: #bb8fce;
+            text-shadow: 0 0 10px #9b59b6;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            font-size: 1.2em;
+            padding: 5px 0;
+        }
+        footer {
+            padding: 10px;
+            border-top: 4px solid #9b59b6;
+            background-color: rgba(20, 20, 40, 0.9);
+            color: #bb8fce;
+            text-shadow: 0 0 10px #8e44ad;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Китай 中国 - Discord сервер</h1>
+        <a class="btn" href="https://discord.gg/P8JkTVEv2P" target="_blank">🚀 Присоединиться</a>
+    </header>
+
+    <section>
+        <h2>О сервере</h2>
+        <p>Добро пожаловать на Discord сервер <b>Китай 中国</b>! Здесь мы общаемся, обсуждаем культуру Китая и проводим время вместе — в атмосфере галактического космоса ✨</p>
+    </section>
+
+    <section>
+        <h2>Администрация</h2>
+        <ul>
+            <li><b>Создатель (Главный):</b> yoncola</li>
+            <li><b>Модератор:</b> wsq_virtuos</li>
+            <li><b>Модератор:</b> erondondon0638</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Китай 中国 - Все права защищены</p>
+    </footer>
+
+</body>
+</html>
